@@ -1,0 +1,12 @@
+{
+  "name": "Anon Web",
+  "short_name": "Anon Web",
+  "id": "ru.gamepush.test",
+  "description": "",
+  "orientation": "portrait",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
